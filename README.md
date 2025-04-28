@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello world!
+##### Currently studying c++
+##### Gold medalist at OBI Pj
+##### Medalist at OBM (1x silver, 2x bronze)
 
 <!--
 **Byui09/Byui09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
