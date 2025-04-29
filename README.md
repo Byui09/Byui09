@@ -1,6 +1,6 @@
 <div align="center" style="background-image: url('https://raw.githubusercontent.com/Byui09/assets/main/low-poly-grid-haikei.svg'); background-size: cover; padding: 50px;">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=23&pause=1000&color=000000&background=%09%23FFB7C5&width=435&lines=Hello+World!!;I'm+Mayara;I'm+currently+studying+c%2B%2B;Nice+fact%3A+I+won+a+gold+medal+at+OBI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=23&pause=1000&color=000000&background=%09%23FFB7C5&width=435&lines=Hello+World!!;I'm+Mayara;I'm+currently+studying+c%2B%2B;Nice+fact%3A+I+won+a+gold+medal+at+OBI+PJ)
 
 </div>
 
