@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=23&pause=1000&color=000000&background=%09%23FFB7C5&width=435&lines=Hello+World!!;I'm+Mayara;I'm+currently+studying+c%2B%2B;Nice+fact%3A+I+won+a+gold+medal+at+OBI+PJ)
 
 </div>
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=pink)
+
 
 <!--
 **Byui09/Byui09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
